@@ -16,18 +16,22 @@ To create your onw bot, refer to Telegram bot documentation.
 ## Use  
 Program executes with ```python3 telegram.py```  
 Once JOSHUA is running, find your bot on Telegram and execute:  
-```/start  
-/validate```  
+```bash
+/start  
+/validate
+```  
 Find a folder named 'mod_activate'. Inisde that folder is a file with 
 extention '.validate'. Copy the number written in the file and execute:
 
-```
+```bash
 python activate.py
 ```
 paste the number and use the option 'valid'  
 
 Now JOSHUA is ready to take your commands using:  
-```/shell <command>```  
+```bash
+/shell <command>
+```  
 if the command isued is acepted you will get the PID number.
 
 

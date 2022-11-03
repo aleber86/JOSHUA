@@ -38,6 +38,6 @@ if the command isued is acepted you will get the PID number.
   src="header.png"
   alt="Alt text"
   title="Example"
-  style="display: inline-block; margin: 0 auto; max-width: 300px">
+  style="display: inline-block; margin: 0 auto; max-width: 50px">
 
 

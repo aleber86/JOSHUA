@@ -2,3 +2,11 @@
 02-11-2022 17:26:35	{'chat_id': 2096173274, 'content': [[{'offset': 0, 'length': 6, 'type': 'bot_command'}], '/shell ls']}
 02-11-2022 17:28:14	{'chat_id': 2096173274, 'content': [[{'offset': 0, 'length': 6, 'type': 'bot_command'}], '/shell ls']}
 02-11-2022 17:28:15	***INVALID USER: 2096173274{'chat_id': 2096173274, 'content': [[{'offset': 0, 'length': 6, 'type': 'bot_command'}], '/shell ls']}
+02-11-2022 20:51:24	{'chat_id': 2096173274, 'content': [[{'offset': 0, 'length': 6, 'type': 'bot_command'}], '/start']}
+02-11-2022 20:51:41	{'chat_id': 2096173274, 'content': [[{'offset': 0, 'length': 9, 'type': 'bot_command'}], '/validate']}
+02-11-2022 20:51:59	{'chat_id': 2096173274, 'content': [[{'offset': 0, 'length': 6, 'type': 'bot_command'}], '/shell']}
+02-11-2022 20:52:00	***INVALID USER: 2096173274{'chat_id': 2096173274, 'content': [[{'offset': 0, 'length': 6, 'type': 'bot_command'}], '/shell']}
+02-11-2022 20:53:38	{'chat_id': 2096173274, 'content': [[{'offset': 0, 'length': 9, 'type': 'bot_command'}], '/validate']}
+02-11-2022 20:55:15	{'chat_id': 2096173274, 'content': [[{'offset': 0, 'length': 6, 'type': 'bot_command'}], '/shell ps -v']}
+02-11-2022 20:55:16	***INVALID USER: 2096173274{'chat_id': 2096173274, 'content': [[{'offset': 0, 'length': 6, 'type': 'bot_command'}], '/shell ps -v']}
+02-11-2022 20:57:24	{'chat_id': 2096173274, 'content': [[{'offset': 0, 'length': 6, 'type': 'bot_command'}], '/shell ps -v']}

@@ -34,10 +34,6 @@ Now JOSHUA is ready to take your commands using:
 ```  
 if the command isued is acepted you will get the PID number.
 
-<img
-  src="header.png"
-  alt="Alt text"
-  title="Example"
-  style="display: inline-block; margin: 0 auto; max-width: 50px">
+<img src="header.png" alt="Alt text" title="Example">
 
 

@@ -4,4 +4,3 @@ SECRET.py
 #compiled
 /__pycache__
 *.pyc
-*.png
